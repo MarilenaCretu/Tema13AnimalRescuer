@@ -1,14 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e16c008-ca65-4db1-9abe-2010311bc0be" name="Changes" comment="" />
+    <list default="true" id="3e16c008-ca65-4db1-9abe-2010311bc0be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AnimalRescuer/Adoption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AnimalRescuer/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AnimalRescuer/AnimalFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AnimalRescuer/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AnimalRescuer/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AnimalRescuer/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AnimalRescuer/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AnimalRescuer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AnimalRescuer/Recreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AnimalRescuer/Veterinarian.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HPNDtt4CoCq5O7s8kOfDJG00DB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +48,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Marlenne/Desktop/Curs Testare/Testare 1/Curs13/Tema13AnimalRescuer/src/main/java/AnimalRescuer"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Marlenne\Desktop\Curs Testare\Testare 1\Curs13\Tema13AnimalRescuer\src\main\java\AnimalRescuer" />
+      <recent name="C:\Users\Marlenne\Desktop\Curs Testare\Testare 1\Curs13\Tema13AnimalRescuer\src\main\java" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +68,16 @@
       <updated>1668182647663</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
